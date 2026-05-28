@@ -17,8 +17,6 @@ checkpoints/
 mlruns/
 
 # Data
-data/raw/
-data/processed/
 
 # Mac/Linux
 .DS_Store
