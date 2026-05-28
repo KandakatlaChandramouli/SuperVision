@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Colab
+sample_data/
+.config/
+
+# ML
+models/
+checkpoints/
+mlruns/
+
+# Data
+data/raw/
+data/processed/
+
+# Mac/Linux
+.DS_Store
+
+# Environment
+.env
+venv/
